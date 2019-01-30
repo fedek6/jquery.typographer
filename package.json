@@ -1,0 +1,29 @@
+{
+  "name": "jquery.typographer",
+  "version": "0.1.2",
+  "description": "Poprawa jakości typograficznej polskojęzycznych tekstów na stronach WWW.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mir3z/jquery.typographer.git"
+  },
+  "keywords": [
+    "typografia",
+    "www",
+    "html",
+    "jquery"
+  ],
+  "author": "mirz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mir3z/jquery.typographer/issues"
+  },
+  "homepage": "https://github.com/mir3z/jquery.typographer#readme"
+}
